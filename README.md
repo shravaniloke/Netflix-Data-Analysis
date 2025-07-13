@@ -6,19 +6,15 @@ This project involves analyzing the Netflix dataset to uncover insights about co
 ## 🔍 Features
 📊 Visualizations:
 
-Movie vs TV Show distribution
-
-Top 10 countries with most titles
-
-Content added over time
+  - Movie vs TV Show distribution
+  - Top 10 countries with most titles
+  - Content added over time
 
 ## 🤖 Machine Learning:
 
-TF-IDF-based text vectorization
-
-Logistic Regression model
-
-Achieved 98% accuracy in classifying content types
+  - TF-IDF-based text vectorization
+  - Logistic Regression model
+  - Achieved 98% accuracy in classifying content types
 
 ## 📈 Business Intelligence:
 ### 📊 Power BI Dashboard
